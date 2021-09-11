@@ -1,0 +1,14 @@
+{
+	"name": "petmouse",
+	"version": "0.1.0",
+	"description": "DigitalFeline's Project Petmouse",
+	"license": "UNLICENSED",
+	"private": true,
+	"devDependencies": {
+		"typescript": "4.x",
+		"less": "4.x"
+	},
+	"scripts": {
+		"test": ""
+	}
+}

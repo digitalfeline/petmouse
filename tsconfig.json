@@ -1,0 +1,12 @@
+{
+	"compilerOptions": {
+		"strict": true,
+		"noImplicitOverride": true,
+		"noImplicitReturns": true,
+		"noEmitOnError": true,
+		"outDir": "dist",
+		"target": "ES6"
+	},
+	"include": ["src/**/*", "tests/**/*"],
+	"exclude": ["node_modules"]
+}
