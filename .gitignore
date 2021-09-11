@@ -2,6 +2,10 @@
 logs
 *.log
 
+# Coverage
+coverage
+*.lcov
+
 # Node modules
 node_modules/
 

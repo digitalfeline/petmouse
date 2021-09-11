@@ -5,8 +5,11 @@
 	"license": "UNLICENSED",
 	"private": true,
 	"devDependencies": {
-		"typescript": "4.x",
-		"less": "4.x"
+		"@typescript-eslint/eslint-plugin": "4.x",
+		"@typescript-eslint/parser": "4.x",
+		"eslint": "7.x",
+		"less": "4.x",
+		"typescript": "4.x"
 	},
 	"scripts": {
 		"test": ""
